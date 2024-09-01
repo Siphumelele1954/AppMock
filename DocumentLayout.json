@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\home\\fblogincred.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\home\\fblogincred.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\home\\guestlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\home\\guestlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\home\\addtwuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\home\\addtwuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\fines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\fines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\fines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\fines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\dcs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\dcs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\dcs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\dcs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\dcs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\dcs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\fines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\fines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|c:\\users\\rlpmar002\\source\\repos\\tugwellapp demos\\tugwellapp demo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C2C5C1A6-0F59-44CC-AC9D-A45B6907C0B0}|TugwellApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:57:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTWUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\AddTWUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddTWUser.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\AddTWUser.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddTWUser.cshtml",
+              "ViewState": "AQIAAEUAAADAmJmZmRkwwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T08:41:46.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAzMzMzMwXwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T09:40:07.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fines\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fines\\Index.cshtml",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAIwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:03:04.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FBLoginCred.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\FBLoginCred.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FBLoginCred.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\FBLoginCred.cshtml",
+              "RelativeToolTip": "Views\\Home\\FBLoginCred.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T08:54:17.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fines\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Fines\\Edit.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:15:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DCs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Create.cshtml",
+              "RelativeToolTip": "Views\\DCs\\Create.cshtml",
+              "ViewState": "AQIAAH0AAACwmZmZmXkwwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:28:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AQIAAIwAAAAARjMzMzMLwHkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T15:38:25.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:36:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuestLanding.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\GuestLanding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GuestLanding.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Home\\GuestLanding.cshtml",
+              "RelativeToolTip": "Views\\Home\\GuestLanding.cshtml",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAcwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T08:30:53.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fines\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Fines\\Create.cshtml",
+              "RelativeToolTip": "Views\\Fines\\Create.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAUwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:28:18.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAUwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:36:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T09:41:20.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAmwL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:41:56.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Details.cshtml",
+              "ViewState": "AQIAAGIAAACAmZmZmRkmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:42:06.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DCs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Index.cshtml",
+              "RelativeToolTip": "Views\\DCs\\Index.cshtml",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAmwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:03:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DCs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\DCs\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DCs\\Edit.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAmwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:11:10.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAALIYAAAAgGVmZiYwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T06:47:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:41:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T09:41:13.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AQIAAIQAAAAAgDMzMzPbvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:42:20.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\RLPMAR002\\source\\repos\\TugwellApp Demos\\TugwellApp Demo\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T09:41:24.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
